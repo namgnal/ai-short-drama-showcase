@@ -1,0 +1,373 @@
+[
+  {
+    "source_id": "A003",
+    "public": "assets/scene-3/A003.jpg",
+    "label": "3-0婚房",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "8d7fa8f5c4ddb3fb423747ea8359b87dee64acceb4cfdee87f18dde65f6eda71"
+  },
+  {
+    "source_id": "A004",
+    "public": "assets/scene-3/A004.jpg",
+    "label": "3-1女坐婚房",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "a727a1291b8d2b2fa948afeab58dacb9c3283804edd11a23baec94450aa6c776"
+  },
+  {
+    "source_id": "A005",
+    "public": "assets/scene-3/A005.jpg",
+    "label": "3-2金杆盖头",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "c862f3231205028a66871916e631f60d38f0c683ea55ebccc2299d6a9bae3f87"
+  },
+  {
+    "source_id": "A006",
+    "public": "assets/scene-3/A006.jpg",
+    "label": "3-婚房内去头罩",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "6d7624ecab21fbf67e5d0bffd0696a2985741646a105ccd65e04bcf6618defa8"
+  },
+  {
+    "source_id": "A007",
+    "public": "assets/alternatives/A007.jpg",
+    "label": "候选图_03239a54",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "1374fd3ce61fb240ef6a66bbeda1e9b436646d08a2b0b150852a462b41eebfb1"
+  },
+  {
+    "source_id": "A008",
+    "public": "assets/alternatives/A008.jpg",
+    "label": "候选图_dbaf9eb3",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "4b54a33e0ca1348a0d59f8cbab9a119d7e7b7ecead36eb928b33d29833910d0f"
+  },
+  {
+    "source_id": "A009",
+    "public": "assets/alternatives/A009.jpg",
+    "label": "候选图_e4f91357",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "e52a21d620496c92e4c8ff8ef3f196fed44385cd2a1f516df8f366894f7631fb"
+  },
+  {
+    "source_id": "A010",
+    "public": "assets/alternatives/A010.jpg",
+    "label": "候选图_9a598e69",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "1a8e1eb91512b299ca14c0d7f8e497e2657e9c79337063522fca38454b152cff"
+  },
+  {
+    "source_id": "A011",
+    "public": "assets/alternatives/A011.jpg",
+    "label": "候选图_bb5b5d69",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "d98f95b87469e8b02798719678f940da64df14d3327664e1c41b9052531441ed"
+  },
+  {
+    "source_id": "A012",
+    "public": "assets/scene-2/A012.jpg",
+    "label": "S2-01 全景",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "3876942650a9d793694ceafc0570118db5b4aedfbd8fdf693276e23f0cc20458"
+  },
+  {
+    "source_id": "A013",
+    "public": "assets/scene-2/A013.jpg",
+    "label": "S2-02 中景",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "34c6512abe3c598c0bed66d9316d92d217a4c4729d3a6bf0c15c0649cf98f6bd"
+  },
+  {
+    "source_id": "A014",
+    "public": "assets/scene-2/A014.jpg",
+    "label": "S2-03 特写",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "fd509464ab2eb035b5490822974c7e3e5a970f1a4926951fd6e91f930c5efd79"
+  },
+  {
+    "source_id": "A015",
+    "public": "assets/scene-2/A015.jpg",
+    "label": "S2-04 近景（萧承稷侧头低声问）",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "de0ddd2af3e11f0b45d5c37a0b0daee4fee835ba9a784fc93f6cd368fc2cc85e"
+  },
+  {
+    "source_id": "A016",
+    "public": "assets/scene-2/A016.jpg",
+    "label": "S2-05 近景（李德全凑耳耳语）",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "762a8e00d700e77c7ea8164e81012bd361630cbc52e685d129f5fa484c83d3e2"
+  },
+  {
+    "source_id": "A017",
+    "public": "assets/scene-2/A017.jpg",
+    "label": "S2-06 特写·挑眉",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "1e719812d542b09620d8bfbb7fd4d108f6296123561767145ac3869a83ca0642"
+  },
+  {
+    "source_id": "A018",
+    "public": "assets/scene-2/A018.jpg",
+    "label": "S2-07 中景（司礼太监逆光高唱）",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "3b6e89c22c1041eb0119f06f3d243f7abfb94541c7e3df3e1d42d8e1c54aaf52"
+  },
+  {
+    "source_id": "A019",
+    "public": "assets/scene-2/A019.jpg",
+    "label": "S2-09 近景（萧承稷冷打断）",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "86753b439f9c0083a0f393020216070d926033582d155f44e72bc688ade08e23"
+  },
+  {
+    "source_id": "A020",
+    "public": "assets/scene-2/A020.jpg",
+    "label": "S2-10a · 绣鞋磕地特写",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "807c2bf38d7edec03d9a325024e2a9aed467c26d0517c832699482e731da1ff4"
+  },
+  {
+    "source_id": "A021",
+    "public": "assets/scene-2/A021.jpg",
+    "label": "S2-10b · 行大礼中景",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "024a215ed8a745885816886e12397d52b630c54eb42f571cc891c7b8955a7958"
+  },
+  {
+    "source_id": "A034",
+    "public": "assets/scene-1/A034.jpg",
+    "label": "S1-01_红烛",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "d34e709a18101c9db77737b7119e4c784a564eec03f9c37f4c9416f4de307da3"
+  },
+  {
+    "source_id": "A035",
+    "public": "assets/scene-1/A035.jpg",
+    "label": "S1-02_沈知微拨算盘",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "8c10b9d31662308ce176bcc7cff9ddd582cecfd5dab1d6aac20c76af0fa63388"
+  },
+  {
+    "source_id": "A036",
+    "public": "assets/scene-1/A036.jpg",
+    "label": "S1-03_永安侯拍信",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "94288b3ce28b785426cc8c44a8f8adcb5574fcf108d15e95f1ee4474c23e597e"
+  },
+  {
+    "source_id": "A037",
+    "public": "assets/scene-1/A037.jpg",
+    "label": "S1-04_侯夫人哭",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "ac8cf28834e9749421e4bd0d3e2f15bae06ca507c93e8a758a2e912b4ce8ca57"
+  },
+  {
+    "source_id": "A039",
+    "public": "assets/scene-1/A039.jpg",
+    "label": "S1-05_盖头落算盘散",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "df29281bbad4e2983968d8fcedc3ab390a1d2ce5fb03225d093c159816e755b6"
+  },
+  {
+    "source_id": "A040",
+    "public": "assets/scene-1/A040.jpg",
+    "label": "S1-06_盖头下侧影",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "4eb5950a12611f2d3ec8eea7aa73e980afca22f622c6c8b31d73d69efa70cac3"
+  },
+  {
+    "source_id": "A041",
+    "public": "assets/scene-1/A041.jpg",
+    "label": "S1-07_永安侯挥手",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "7d11c85c2a2947e81df9d30af08943793a1cf9418d7d0bd2f592258cd6613ed1"
+  },
+  {
+    "source_id": "A042",
+    "public": "assets/scene-1/A042.jpg",
+    "label": "S1-08_沈知微被抬走",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "ba2ea4290203f2d5f11501cbf493ef58b4f1fa6be3136390b423e4b6850191e6"
+  },
+  {
+    "source_id": "A043",
+    "public": "assets/scene-1/A043.jpg",
+    "label": "场景板_S1_闺房",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "23b82160b8d32df4c14f3fed6986fb7badb1ca0666dcdd4bbd8fb582bf5f7514"
+  },
+  {
+    "source_id": "A078",
+    "public": "assets/characters/A078.jpg",
+    "label": "侯夫人_正面",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "2da78b704c54fc46159d2204f660f040a8fbcb32a1159302371c29a8d835da0b"
+  },
+  {
+    "source_id": "A079",
+    "public": "assets/characters/A079.jpg",
+    "label": "女红盖头侧视",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "9604dd5787b3b1429fbf4fdf848befab09899722d9f0f8c7e6d7cce1f3dc58a5"
+  },
+  {
+    "source_id": "A082",
+    "public": "assets/characters/A082.jpg",
+    "label": "李德全_正面",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "8239a1c6fba217f0ad7761195810cc262e7c5134808976723cbcb01b054b8089"
+  },
+  {
+    "source_id": "A083",
+    "public": "assets/characters/A083.jpg",
+    "label": "永安侯_正面",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "eeea0d43307734d389c4058c10644e93d8df8d471c730e8724a8f399a9827609"
+  },
+  {
+    "source_id": "A084",
+    "public": "assets/characters/A084.jpg",
+    "label": "沈知微_34侧面",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "7320f0accfd0a6537323935f5efb44ae7783d15034fd4dcd44c3829a689383b9"
+  },
+  {
+    "source_id": "A085",
+    "public": "assets/characters/A085.jpg",
+    "label": "沈知微_侧面",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "b21149edf9a562e12d09ac514f31ea1edad6977c81169c1424840160765641a5"
+  },
+  {
+    "source_id": "A086",
+    "public": "assets/characters/A086.jpg",
+    "label": "沈知微_正面",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "9b008b1f2cf1da2165a2d3ebfc315254b4fc38d88ef60d7994579ee3914ec310"
+  },
+  {
+    "source_id": "A087",
+    "public": "assets/characters/A087.jpg",
+    "label": "沈知微_红凤袍",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "dad7996186f583ea1bdf1b1f051c9fb13802c03a3a88405585b7d1af5f661c20"
+  },
+  {
+    "source_id": "A088",
+    "public": "assets/characters/A088.jpg",
+    "label": "沈知微_红凤袍背面",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "68edf596299b44fc6a5b9200083a72a78855cf061401fe400edea9818b1ef7b5"
+  },
+  {
+    "source_id": "A090",
+    "public": "assets/characters/A090.jpg",
+    "label": "萧承稷_34侧面",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "bec6e8c866d79cd42414fd5f19dd9e452c1e251d5510826548b196885370e832"
+  },
+  {
+    "source_id": "A091",
+    "public": "assets/characters/A091.jpg",
+    "label": "萧承稷_侧面",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "6ac403be04d4c8d9673ee6b3213a20a2fdb0dcd4d21de18d0167134525718acf"
+  },
+  {
+    "source_id": "A092",
+    "public": "assets/characters/A092.jpg",
+    "label": "萧承稷_正面",
+    "transform": "JPEG 浏览衍生版；保留源图 XMP AI 标记",
+    "sha256": "1cb5fbe4bbca53a6b7529617b04980e3c05c72ca5604272958b6b3ba498116c3"
+  },
+  {
+    "source_id": "A089",
+    "public": "media/final-preview.mp4",
+    "label": "终稿预览",
+    "transform": "720p / 30fps H.264 压缩预览；非原始母版",
+    "sha256": "f01e181376887225a22dbf1544221399024523898446c65ac1fc20008fdec786"
+  },
+  {
+    "source_id": "A080",
+    "public": "media/versions/v01-subtitle-issue.mp4",
+    "label": "原命名：字幕问题版",
+    "transform": "720p / 30fps H.264 压缩预览；非原始母版",
+    "sha256": "cd9607ca7484fb5683914688495108a69e9ef64b6a99566003cfd2ca08217b00"
+  },
+  {
+    "source_id": "A081",
+    "public": "media/versions/v02-subtitle-revision.mp4",
+    "label": "原命名：异常字幕修复版本",
+    "transform": "720p / 30fps H.264 压缩预览；非原始母版",
+    "sha256": "b0a57f650dfad15e22d07b96c164977185d85aa2a2b00eb7704c215fad66e628"
+  },
+  {
+    "source_id": "A055",
+    "public": "media/scenes/scene-1.mp4",
+    "label": "第一场分场导出",
+    "transform": "720p / 30fps H.264 压缩预览；非原始母版",
+    "sha256": "c755d9a5807c1a8a3d5fa34f5c1329e7ddab0fc0eac85857cb30641258f17835"
+  },
+  {
+    "source_id": "A072",
+    "public": "media/scenes/scene-2.mp4",
+    "label": "第二场分场导出",
+    "transform": "720p / 30fps H.264 压缩预览；非原始母版",
+    "sha256": "ddcc8403a77cef6d3b29c4afb31ba2b731c90699dfd075e1996bdb0891614cd9"
+  },
+  {
+    "source_id": "A066",
+    "public": "media/scenes/scene-3.mp4",
+    "label": "第三场分场导出",
+    "transform": "720p / 30fps H.264 压缩预览；非原始母版",
+    "sha256": "53fdd4f87dc9578883bdff0b78eed4f2e3b01829d490aa4864e67922880694bc"
+  },
+  {
+    "source_id": "A069",
+    "public": "media/clips/scene-2-example.mp4",
+    "label": "第二场镜头示例",
+    "transform": "720p / 30fps H.264 压缩预览；非原始母版",
+    "sha256": "95bcee2ddc7cec0a83ae426fe88a0d60789511dd605e3e9bde2da1b76a61bbf3"
+  },
+  {
+    "source_id": "A022",
+    "public": "media/clips/scene-1-example.mp4",
+    "label": "第一场镜头示例",
+    "transform": "720p / 30fps H.264 压缩预览；非原始母版",
+    "sha256": "0bfccc5e93a8f8e9dc6a08de3af0e4a9d9f286304ee8c509eda2b455bdf3bee6"
+  },
+  {
+    "source_id": "A060",
+    "public": "media/clips/scene-3-example.mp4",
+    "label": "第三场镜头示例",
+    "transform": "720p / 30fps H.264 压缩预览；非原始母版",
+    "sha256": "3fccf8b622813075d7efa66eda83290a85a6ad25f24b422fafa2da38aa7330f2"
+  },
+  {
+    "source_id": "A033",
+    "public": "media/audio/dialogue-01.mp3",
+    "label": "父亲，女儿正在核算侯府",
+    "transform": "音频流无损重封装；移除生成任务标识和预留字段；保留通用 AI 生成标记",
+    "sha256": "565dcf6d6315a09d9412ee4a78ee4bb49882b84a447cd8162b6e6435898040d9"
+  },
+  {
+    "source_id": "A049",
+    "public": "media/audio/dialogue-02.mp3",
+    "label": "李德全他在说什么",
+    "transform": "音频流无损重封装；移除生成任务标识和预留字段；保留通用 AI 生成标记",
+    "sha256": "5503e9fa967b24e4611bcd3b411f1b5150c45dd4392df949ff005613dcc2c50b"
+  },
+  {
+    "source_id": "A027",
+    "public": "media/audio/dialogue-03.mp3",
+    "label": "坦诚。。",
+    "transform": "音频流无损重封装；移除生成任务标识和预留字段；保留通用 AI 生成标记",
+    "sha256": "d451fad7322f70ff727e729d068068a1bd6e8c901770f3b01c48d593ddce51b8"
+  },
+  {
+    "source_id": "A094",
+    "public": "media/audio/dialogue-04.mp3",
+    "label": "陛下留不留",
+    "transform": "音频流无损重封装；移除生成任务标识和预留字段；保留通用 AI 生成标记",
+    "sha256": "4df669f3ba833962a4fa392b2975c5d2c26b3c8c6588f51564072d0c6be388c8"
+  }
+]

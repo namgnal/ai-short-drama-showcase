@@ -1,0 +1,15 @@
+# 公开包只保留本站与精选素材
+.DS_Store
+Thumbs.db
+*.log
+*.partial.*
+*.clean.*
+.env
+.env.*
+.git/
+.ai/
+work/
+*原文件对应表*
+*报名*
+*简历*
+*offer*
